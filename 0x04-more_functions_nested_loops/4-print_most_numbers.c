@@ -3,9 +3,10 @@
 /**
  * print_most_numbers - print num except 2 and 4
  *
- * Return: void
+ * return: void
  */
-void Print_most_numbers(void)
+
+void print_most_numbers(void)
 {
 	char c;
 
